@@ -1,5 +1,10 @@
 [
   {
+    "name": "gstore",
+    "docs": "https://docs.rs/gstore/",
+    "tags": []
+  },
+  {
     "name": "iui",
     "tags": [
       "Bindings"
